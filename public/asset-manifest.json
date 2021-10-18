@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0e386262.chunk.css",
+    "main.js": "/static/js/main.d89e4d54.chunk.js",
+    "main.js.map": "/static/js/main.d89e4d54.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4abcda16.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4abcda16.js.map",
+    "static/css/2.ed1298f3.chunk.css": "/static/css/2.ed1298f3.chunk.css",
+    "static/js/2.bc212c2d.chunk.js": "/static/js/2.bc212c2d.chunk.js",
+    "static/js/2.bc212c2d.chunk.js.map": "/static/js/2.bc212c2d.chunk.js.map",
+    "static/js/3.363f55c5.chunk.js": "/static/js/3.363f55c5.chunk.js",
+    "static/js/3.363f55c5.chunk.js.map": "/static/js/3.363f55c5.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.ed1298f3.chunk.css.map": "/static/css/2.ed1298f3.chunk.css.map",
+    "static/css/main.0e386262.chunk.css.map": "/static/css/main.0e386262.chunk.css.map",
+    "static/js/2.bc212c2d.chunk.js.LICENSE.txt": "/static/js/2.bc212c2d.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/static/media/partner-bg.dc75d99b.png",
+    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/bootstrap.min.css": "/static/media/glyphicons-halflings-regular.e8c2d03a.ttf",
+    "static/media/icomoon.css": "/static/media/icomoon.7ab59cbf.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4abcda16.js",
+    "static/css/2.ed1298f3.chunk.css",
+    "static/js/2.bc212c2d.chunk.js",
+    "static/css/main.0e386262.chunk.css",
+    "static/js/main.d89e4d54.chunk.js"
+  ]
+}
